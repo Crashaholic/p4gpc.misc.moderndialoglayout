@@ -1,5 +1,5 @@
 # p4gpc.misc.moderndialoglayout
-This mod aims to change the dialog layout for Persona 4 Golden to match that of modern Atlus games. At the moment, the mod is intended to be used in tandem with the ![P4 Style Text Boxes by AnimatedSwine37](https://github.com/AnimatedSwine37/p4g64.p4TextBoxes/assets/24914353/de7aa5ba-1aa8-407a-a4c3-0c8a97c08e4f) mod.
+This mod aims to change the dialog layout for Persona 4 Golden to match that of modern Atlus games. At the moment, the mod is intended to be used in tandem with the ![P4 Style Text Boxes by AnimatedSwine37](https://github.com/AnimatedSwine37/p4g64.p4TextBoxes) mod.
 
 
 ## Configuration
